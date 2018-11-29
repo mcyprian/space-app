@@ -9,6 +9,6 @@ django = ">=2.1.2,<3.0"
 gunicorn = "*"
 
 [requires]
-python_version = "3.7"
+python_version = "3.5"
 
 [dev-packages]
